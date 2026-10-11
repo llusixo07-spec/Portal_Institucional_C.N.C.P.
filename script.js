@@ -61,7 +61,7 @@ const galerias = {
             "Instalaciones y espacios del Colegio Nacional Carmen de Peña.",
         fotos: [
             {
-                src: "imagen/piki.png.jpeg",
+                src: "C:\Users\sg866\Downloads\imagen\qw.jpeg",
                 alt: "Infraestructura del Colegio Nacional Carmen de Peña"
             },
             {
